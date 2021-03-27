@@ -1,0 +1,63 @@
+/*Css DOCUMENT*/
+html{
+    font-size: large;
+}
+body{
+    text-align: center;
+}
+main{
+    margin: 10px;
+    border-radius: 14px;
+    background-color: silver;
+    padding: 10px;
+}
+header{
+    margin: 30px;
+}
+header p{
+    font-size: 1.5em;
+    margin: 0;
+}
+footer{
+    margin: 50px;
+}
+#title{
+    font-size: 3em;
+    margin: 10px;
+}
+.section-title{
+    margin: 50px;
+    font-size: 1.8em;
+}
+h3{
+    font-size: 1.2em;
+}
+/*module*/
+#img-div{
+    background-color: #fff;
+    border-radius: 14px;
+    padding: 20px;
+    max-width: 100%;
+}
+img{
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+ul{
+    width: 50%;
+    text-align: center;
+    margin: 50px auto;
+}
+p#citation{
+    font-style: italic;
+}
+ul li{
+    text-align: left;
+    margin: 20px auto;
+}
+blockquote{
+    width: 60%;
+    margin: auto;
+}
+/*layout*/

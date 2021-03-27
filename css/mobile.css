@@ -1,0 +1,21 @@
+/*Css DOCUMENT*/
+@media(max-width: 460px){
+    html{
+        font-size: small;
+    }
+    main{
+        margin: 0;
+    }
+    header{
+        margin: 20px;
+    }
+    #img-div{
+        margin: 0;
+    }
+    ul{
+        width: 80%;
+    }
+    footer{
+        margin: 20px;
+    }
+}
